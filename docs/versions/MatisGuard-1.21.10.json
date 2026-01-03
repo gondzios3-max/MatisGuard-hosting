@@ -1,0 +1,32 @@
+{
+  "id": "MatisGuard-1.21.10",
+  "inheritsFrom": "1.21.10",
+  "time": "2025-12-30T19:33:07+00:00",
+  "releaseTime": "2025-12-30T19:33:07+00:00",
+  "type": "release",
+  "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+  "minimumLauncherVersion": 21,
+  "libraries": [
+    {
+      "sha1": "c29635c8a7afa03d74b33c1884df8abb2b3f3dcc",
+      "sha256": "03d99a74ad1ee5c71334ef67437f4ef4fe3488caa7c96d8645abc73c8e2017d4",
+      "size": 126122,
+      "name": "org.ow2.asm:asm:9.9",
+      "sha512": "197a4fb3ecb34d05ac555c6a510e69affcb1e476f24c5e935ad513ecdabf74b45aa1b0e0b25dbe91224fc6db7959b2677ea5876ee49e7487265e2a29c560c21c",
+      "url": "https://maven.fabricmc.net/",
+      "md5": "6d1dd0482c03a6dc1807d9d004456021"
+    },
+    {
+      "name": "net.fabricmc:intermediary:1.21.10",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:fabric-loader:0.18.4",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ],
+  "arguments": {
+    "jvm": [],
+    "game": []
+  }
+}
