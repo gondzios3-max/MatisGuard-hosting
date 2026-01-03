@@ -1,13 +1,1 @@
-{
-  "mods": [
-    {
-      "id": "replace-with-id",
-      "name": "Replace with display name",
-      "fileName": "example-mod-1.0.0.jar",
-      "url": "https://YOUR_USER.github.io/MatisGuard/mods/example-mod-1.0.0.jar",
-      "sha1": "0123456789abcdef0123456789abcdef01234567"
-    }
-  ],
-  "fabricInstallerUrl": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar",
-  "mcVersion": "1.21.10"
-}
+
