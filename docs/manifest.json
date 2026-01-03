@@ -1,13 +1,50 @@
 {
   "mods": [
     {
-      "id": "replace-with-id",
-      "name": "Replace with display name",
-      "fileName": "example-mod-1.0.0.jar",
-      "url": "https://gondzios3-max.github.io/MatisGuard/mods/example-mod-1.0.0.jar",
-      "sha1": "0123456789abcdef0123456789abcdef01234567"
+      "id": "a7f3k9m2z",
+      "name": "a7f3k9m2z.jar",
+      "fileName": "a7f3k9m2z.jar",
+      "url": "https://gondzios3-max.github.io/MatisGuard-hosting/mods/a7f3k9m2z.jar",
+      "sha1": "7e5b2fb2b75fd71d6c1fd6c3e0e9a1bdc5e84236"
+    },
+    {
+      "id": "gfdsfgdsgfapi",
+      "name": "gfdsfgdsgfapi.jar",
+      "fileName": "gfdsfgdsgfapi.jar",
+      "url": "https://gondzios3-max.github.io/MatisGuard-hosting/mods/gfdsfgdsgfapi.jar",
+      "sha1": "0345c20b71007521a25b393091adeb45328d7c57"
+    },
+    {
+      "id": "matisguard-1.0-SNAPSHOT",
+      "name": "matisguard-1.0-SNAPSHOT.jar",
+      "fileName": "matisguard-1.0-SNAPSHOT.jar",
+      "url": "https://gondzios3-max.github.io/MatisGuard-hosting/mods/matisguard-1.0-SNAPSHOT.jar",
+      "sha1": "49231a89b3653cbde69a1929176593befaf204b4"
+    },
+    {
+      "id": "q9w2e6r8s",
+      "name": "q9w2e6r8s.jar",
+      "fileName": "q9w2e6r8s.jar",
+      "url": "https://gondzios3-max.github.io/MatisGuard-hosting/mods/q9w2e6r8s.jar",
+      "sha1": "1c3ffa862d9fa4479abf67a88527907d60237248"
+    },
+    {
+      "id": "t4y7u3i9sx",
+      "name": "t4y7u3i9sx.jar",
+      "fileName": "t4y7u3i9sx.jar",
+      "url": "https://gondzios3-max.github.io/MatisGuard-hosting/mods/t4y7u3i9sx.jar",
+      "sha1": "c5243648eda711f87febe22f0ecbe86323541b1c"
+    },
+    {s
+      "id": "x5h8j4p1m",
+      "name": "x5h8j4p1m.jar",
+      "fileName": "x5h8j4p1m.jar",
+      "url": "https://gondzios3-max.github.io/MatisGuard-hosting/mods/x5h8j4p1m.jar",
+      "sha1": "a775d65bd89004839caf7d6e6f49b9ab1def2458"
     }
   ],
   "fabricInstallerUrl": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar",
-  "mcVersion": "1.21.10"
+  "mcVersion": "1.21.10",
+  "displayVersionName": "MatisGuard 1.21.10",
+  "customVersionsBaseUrl": "https://gondzios3-max.github.io/MatisGuard-hosting/versions/"
 }
