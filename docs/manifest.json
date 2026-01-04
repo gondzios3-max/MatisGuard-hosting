@@ -36,12 +36,20 @@
       "sha1": "c5243648eda711f87febe22f0ecbe86323541b1c"
     },
     {
+      "id": "MatisGuardControlMod",
+      "name": "MatisGuardControlMod.jar",
+      "fileName": "MatisGuardControlMod.jar",
+      "url": "https://gondzios3-max.github.io/MatisGuard-hosting/mods/MatisGuardControlMod.jar",
+      "sha1": "401ACFE60552832B4ADF2074B218652F0FFE2D7A"
+    },
+    {
       "id": "x5h8j4p1m",
       "name": "x5h8j4p1m.jar",
       "fileName": "x5h8j4p1m.jar",
       "url": "https://gondzios3-max.github.io/MatisGuard-hosting/mods/x5h8j4p1m.jar",
       "sha1": "a775d65bd89004839caf7d6e6f49b9ab1def2458"
     }
+    
   ],
   "fabricInstallerUrl": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar",
   "mcVersion": "1.21.10",
